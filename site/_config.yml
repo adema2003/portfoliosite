@@ -1,0 +1,15 @@
+#Site settings
+title: Thomas Adema
+email: thomasadema2003@gmail.com
+description: "Coder // Editor // Youtuber"
+
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
